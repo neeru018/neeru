@@ -10,3 +10,10 @@ c
 c++
 
 
+Linux
+Aws
+
+
+Regards
+
+
